@@ -1,2 +1,2 @@
 # HesapMakinesi
-Switch-case yapısıyla yapılan hesap makinesi
+Switch-case yapısıyla yapılan 4 işlem hesap makinesi
